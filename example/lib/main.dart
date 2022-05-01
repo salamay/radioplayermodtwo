@@ -5,7 +5,7 @@
  */
 
 import 'package:flutter/material.dart';
-import 'package:radio_player/radio_player.dart';
+import 'package:radioplayermodtwo/radio_player.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
